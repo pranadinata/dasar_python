@@ -15,5 +15,22 @@ panjang = 10
 lebar = 5 
 luas = panjang * lebar
 
-print(luas)
+print(panjang)
+
+#gabungan variable 
+nama_depan = 'Yesaya'
+nama_belakang = 'Pranadinata'
+
+nama_lengkap = nama_depan +" "+ nama_belakang
+print(nama_lengkap)
+
+#Pengurangan
+hutang = 10000
+bayar = 5000
+sisaHutang = hutang - bayar
+print("Sisa hutang Anda adalah ", sisaHutang)
+
+
+
+
 
